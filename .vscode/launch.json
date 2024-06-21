@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-KharediApplication<kharedi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.kharedi.KharediApplication",
+            "projectName": "kharedi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
